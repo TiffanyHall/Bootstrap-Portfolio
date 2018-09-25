@@ -54,6 +54,10 @@ body {
 
 }
 
+.navbar-toggler {
+
+    background-color: #ffffff;
+}
 
  
 .img-thumbnail {
@@ -64,6 +68,8 @@ body {
 
 .wrapper {
     background-color: #ffffff;
+    margin:auto;
+    width: 100%;
 }
 
 .border {
